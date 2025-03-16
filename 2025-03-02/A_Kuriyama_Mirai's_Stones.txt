@@ -1,0 +1,7 @@
+// Codeforces Solution
+// Problem: Kuriyama Mirai's Stones (433B)
+// Submission Date: 2025-03-02
+// Language: PyPy 3-64
+// Codeforces Handle: NatiYoni
+
+// [NOTE: Add the actual solution code here manually]
