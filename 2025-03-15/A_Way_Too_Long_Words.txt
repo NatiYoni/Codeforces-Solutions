@@ -1,7 +1,0 @@
-// Codeforces Solution
-// Problem: Way Too Long Words (71A)
-// Submission Date: 2025-03-15
-// Language: PyPy 3-64
-// Codeforces Handle: NatiYoni
-
-// [NOTE: Add the actual solution code here manually]

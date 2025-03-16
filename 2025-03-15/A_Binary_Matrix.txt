@@ -1,7 +1,0 @@
-// Codeforces Solution
-// Problem: Binary Matrix (2082A)
-// Submission Date: 2025-03-15
-// Language: PyPy 3-64
-// Codeforces Handle: NatiYoni
-
-// [NOTE: Add the actual solution code here manually]
