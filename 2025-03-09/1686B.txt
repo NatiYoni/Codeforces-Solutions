@@ -1,0 +1,7 @@
+// Codeforces Solution
+// Problem: Odd Subarrays (1686B)
+// Submission Date: 2025-03-09
+// Language: PyPy 3-64
+// Codeforces Handle: NatiYoni
+
+// [NOTE: Add the actual solution code here manually]
