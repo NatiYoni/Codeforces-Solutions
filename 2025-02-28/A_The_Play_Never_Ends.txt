@@ -1,0 +1,7 @@
+// Codeforces Solution
+// Problem: The Play Never Ends (2071A)
+// Submission Date: 2025-02-28
+// Language: PyPy 3-64
+// Codeforces Handle: NatiYoni
+
+// [NOTE: Add the actual solution code here manually]
