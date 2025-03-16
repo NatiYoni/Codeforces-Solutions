@@ -1,0 +1,7 @@
+// Codeforces Solution
+// Problem: Shifts and Sorting (1969B)
+// Submission Date: 2025-03-14
+// Language: PyPy 3-64
+// Codeforces Handle: NatiYoni
+
+// [NOTE: Add the actual solution code here manually]
