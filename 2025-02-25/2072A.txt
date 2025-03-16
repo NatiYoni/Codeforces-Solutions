@@ -1,0 +1,7 @@
+// Codeforces Solution
+// Problem: New World, New Me, New Array (2072A)
+// Submission Date: 2025-02-25
+// Language: PyPy 3-64
+// Codeforces Handle: NatiYoni
+
+// [NOTE: Add the actual solution code here manually]
