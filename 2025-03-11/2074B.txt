@@ -1,7 +1,0 @@
-// Codeforces Solution
-// Problem: The Third Side (2074B)
-// Submission Date: 2025-03-11
-// Language: PyPy 3-64
-// Codeforces Handle: NatiYoni
-
-// [NOTE: Add the actual solution code here manually]
