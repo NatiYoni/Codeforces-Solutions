@@ -1,0 +1,7 @@
+// Codeforces Solution
+// Problem: Fox And Snake (510A)
+// Submission Date: 2025-02-24
+// Language: PyPy 3-64
+// Codeforces Handle: NatiYoni
+
+// [NOTE: Add the actual solution code here manually]
